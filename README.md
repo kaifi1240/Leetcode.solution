@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
+| [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaifi1240/Leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Depth-First Search
 |  |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaifi1240/Leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
