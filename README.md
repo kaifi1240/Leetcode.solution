@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaifi1240/Leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaifi1240/Leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
