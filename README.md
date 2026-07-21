@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/kaifi1240/Leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaifi1240/Leetcode.solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
