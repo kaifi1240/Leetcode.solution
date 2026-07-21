@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/kaifi1240/Leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
