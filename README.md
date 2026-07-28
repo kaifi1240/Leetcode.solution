@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kaifi1240/Leetcode.solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaifi1240/Leetcode.solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kaifi1240/Leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/kaifi1240/Leetcode.solution/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaifi1240/Leetcode.solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaifi1240/Leetcode.solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kaifi1240/Leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/kaifi1240/Leetcode.solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaifi1240/Leetcode.solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
@@ -127,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kaifi1240/Leetcode.solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kaifi1240/Leetcode.solution/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/kaifi1240/Leetcode.solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/kaifi1240/Leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
